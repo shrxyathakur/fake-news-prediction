@@ -25,7 +25,7 @@ FAKE_NEWS_PREDICTION
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/shrxyahakur/FAKE-NEWS-PREDICTION.git
+    git clone https://github.com/shrxyathakur/FAKE-NEWS-PREDICTION.git
     cd fake_news_prediction
     ```
 2. Create a virtual environment and activate it:
